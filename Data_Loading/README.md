@@ -3,7 +3,9 @@
 **RAG System Project | Module 3 of 15**
 
 **Author:** Srishti K R
+
 **USN:** 4BB23CS048
+
 **Department:** Computer Science and Engineering
 
 ---
