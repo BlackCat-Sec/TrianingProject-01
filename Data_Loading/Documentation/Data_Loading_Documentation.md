@@ -2,8 +2,11 @@
 
 **Project:** Simple RAG (Retrieval-Augmented Generation) System
 **Module:** 03 — Data Loading
+
 **Prepared by:** Srishti K R
+
 **USN:** 4BB23CS048
+
 **Department:** Computer Science and Engineering
 
 ---
