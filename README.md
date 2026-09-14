@@ -130,3 +130,4 @@ The `data/` folder is mounted read-only in the container. Add or replace PDFs in
 ```powershell
 docker compose down --volumes
 ```
+and u can run this system in any file 
