@@ -1,0 +1,12 @@
+services:
+  rag:
+    build: .
+    image: simple-pdf-rag:local
+    stdin_open: true
+    tty: true
+    volumes:
+      - hf_model_cache:/models/huggingface
+      - ./data:/app/data:ro
+
+volumes:
+  hf_model_cache:
